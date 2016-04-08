@@ -1,0 +1,3669 @@
+Auburn University
+Auburn, AL 36849
+"lat":32.60655,
+"lng":-85.48175689999999
+
+Birmingham Southern College
+900 Arkadelphia Road Birmingham, AL 35254
+"lat":33.5162595,
+"lng":-86.8509948
+
+Huntingdon College
+1500 East Fairview Avenue Montgomery, AL 36106
+"lat":32.349981,
+"lng":-86.28495099999999
+
+Jacksonville State University
+700 Pelham Rd. North Jacksonville, AL 36265
+"lat":33.82351510000001,
+"lng":-85.7633486
+
+University of Alabama
+Tuscaloosa, AL 35487
+"lat":33.207199,
+"lng":-87.5482025
+
+University of Alabama Birmingham
+Birmingham, AL 35294
+"lat":33.5082149,
+"lng":-86.808263
+
+Alaska Pacific University
+4101 University Drive Anchorage, AK 99508
+"lat":61.1912660,
+"lng":-149.801344
+
+Sheldon Jackson College
+801 Lincoln Street Sitka Alaska, AK 99835
+"lat":57.0504528,
+"lng":-135.3233354
+
+University of Alaska Anchorage
+3211 Providence Drive Anchorage, AK 99508
+"lat":61.19078219,
+"lng":-149.8182731
+
+University of Alaska Southeast Juneau
+11120 Glacier Highway Juneau, AK 99801
+"lat":58.383,
+"lng":-134.639
+
+Arizona State University
+7001 E. Williams Field Road Mesa, AZ 85212
+"lat":33.3071736,
+"lng":-111.6848649
+
+Art Institute of Phoenix
+2233 W. Dunlap Avenue Phoenix, AZ 85021
+"lat":33.5673189,
+"lng":-112.1071978
+
+Northern Arizona University
+South San Francisco Street Flagstaff, AZ 86011
+"lat":35.1905647,
+"lng":-111.6512056
+
+University of Advancing Technology
+2625 West Baseline Road Tempe, AZ 85283
+"lat":33.3780918,
+"lng":-111.9760323
+
+Northcentral University
+505 W. Whipple Street Prescott, AZ 86301
+"lat":34.5568689,
+"lng":-112.4746852
+
+University of Arizona
+888 North Euclid Avenue Tucson, AZ 85721
+"lat":32.232515,
+"lng":-110.958996
+
+Arkansas State University
+State University, AR 72467
+"lat":35.8417002,
+"lng":-90.6768986
+
+Hendrix College
+1600 Washington Avenue Conway, AR 72032
+"lat":35.1008434,
+"lng":-92.44456509999999
+
+John Brown University
+2000 West University Street Siloam Springs, AR 72761
+"lat":36.1873353,
+"lng":-94.55866119999999
+
+University of Arkansas
+Fayetteville, AR 72701
+"lat":36.1487811,
+"lng":-94.0267789
+
+University of Arkansas Monticello
+Monticello, AR 71656
+"lat":33.59,
+"lng":-91.81
+
+University of the Ozarks
+415 N. College Avenue Clarksville, AR 72830
+"lat":35.4758935,
+"lng":-93.46626909999999
+
+Alliant International University
+10455 Pomerado Road San Diego, CA 92131
+"lat":32.8972454,
+"lng":-117.0949674
+
+Alliant International University
+6160 Cornerstone Court East San Diego, CA 92121
+"lat":32.896478,
+"lng":-117.187405
+
+Alliant International University
+1000 South Fremont Avenue Alhambra, CA 91803
+"lat":34.08147599999999,
+"lng":-118.150609
+
+Alliant International University
+2500 Michelson Drive Irvine, CA 92612
+"lat":33.674539,
+"lng":-117.851703
+
+Alliant International University
+One Beach Street San Francisco, CA 94133
+"lat":37.8076033,
+"lng":-122.4125577
+
+Alliant International University
+5130 E. Clinton Way Fresno, CA 93727
+"lat":36.7671475,
+"lng":-119.7212903
+
+California College of Arts & Sciences
+1111 Eighth Street San Francisco, CA 94107
+"lat":37.7671634,
+"lng":-122.400006
+
+California College of Arts Sciences
+5212 Broadway Oakland, CA 94618
+"lat":37.8358881,
+"lng":-122.2514243
+
+California Institute of Technology
+1200 East California Boulevard Pasadena, CA 91125
+"lat":34.139033,
+"lng":-118.1237602
+
+California Lutheran University
+60 West Olsen Road Thousand Oaks, CA 91360
+"lat":34.2241462,
+"lng":-118.8767951
+
+California State Polytechnic University Pomona
+3801 West Temple Avenue Pomona, CA 91768
+"lat":34.0505664,
+"lng":-117.8206898
+
+California State University Bakersfield
+9001 Stockdale Highway Bakersfield, CA 93311
+"lat":35.354272,
+"lng":-119.106486
+
+California State University Chico
+400 West First Street Chico, CA 95929
+"lat":39.7285775,
+"lng":-121.845582
+
+California State University Fullerton
+Fullerton, CA 92834
+"lat":33.8740731,
+"lng":-117.9026351
+
+California State University Hayward
+East Bay, 25800 Carlos Bee Boulevard Hayward, CA 94542
+"lat":37.65756289999999,
+"lng":-122.0543356
+
+California State University Long Beach
+1250 Bellflower Blvd Long Beach, CA 90840
+"lat":33.7878252,
+"lng":-118.1331877
+
+California State University Northridge
+18111 Nordhoff Street Northridge, CA 91330
+"lat":34.2418007,
+"lng":-118.528266
+
+California State University Stanislaus
+801 West Monte Vista Avenue Turlock, CA 95382
+"lat":37.5219217,
+"lng":-120.8584733
+
+Chapman University
+One University Drive Orange, CA 92866
+"lat":33.7930031,
+"lng":-117.8526062
+
+Claremont McKenna College
+500 E. 9th Street Claremont, CA 91711
+"lat":34.102524,
+"lng":-117.7065496
+
+Concordia University
+1530 Concordia West Irvine, CA 92612
+"lat":33.6543341,
+"lng":-117.8124261
+
+Diablo Valley College
+321 Golf Club Road Pleasant Hill, CA 94523
+"lat":37.9694722,
+"lng":-122.0699931
+
+Fresno Pacific University
+1717 S. Chestnut Fresno, CA 93702
+"lat":36.72714810000001,
+"lng":-119.7355711
+
+Golden Gate University
+536 Mission Street San Francisco, CA 94105
+"lat":37.7890031,
+"lng":-122.3987209
+
+Harvey Mudd College
+301 Platt Boulevard Claremont, CA 91711
+"lat":34.105853,
+"lng":-117.712154
+
+Humboldt State University
+1 Harpst Street Arcata, CA 95521
+"lat":40.8744392,
+"lng":-124.0790979
+
+La Sierra University
+4500 Riverwalk Pkwy Riverside, CA 92515
+"lat":33.9115594,
+"lng":-117.500056
+
+Lincoln University
+401 15th Street Oakland, CA 94612
+"lat":37.804726,
+"lng":-122.269669
+
+Loma Linda University
+1454 E. 2nd Street San Bernardino, CA 92408
+"lat":34.1027164,
+"lng":-117.2627289
+
+Mills College
+5000 MacArthur Blvd Oakland, CA 94613
+"lat":37.7775309,
+"lng":-122.1838569
+
+Notre Dame de Namur University
+1500 Ralston Ave Belmont, CA 94002
+"lat":37.517806,
+"lng":-122.284829
+
+Occidental College
+1600 Campus Road Los Angeles, CA 90041
+"lat":34.1295329,
+"lng":-118.210659
+
+Pacific Union College
+One Angwin Ave Angwin, CA 94508
+"lat":38.570433,
+"lng":-122.443024
+
+Pepperdine University
+24255 Pacific Coast Highway Malibu, CA 90263
+"lat":34.041142,
+"lng":-118.706013
+
+Point Loma Nazarene University
+3900 Lomaland Drive San Diego, CA 92106
+"lat":32.716927,
+"lng":-117.251394
+
+Pomona College
+333 N. College Way Claremont, CA 91711
+"lat":34.097111,
+"lng":-117.7130824
+
+Saint Mary's College
+1928 Saint Mary's Rd Moraga, CA 94556
+"lat":37.841592,
+"lng":-122.1089094
+
+San Diego State University
+5500 Campanile Drive San Diego, CA 92182
+"lat":32.7753493,
+"lng":-117.0712375
+
+San Francisco State University
+1600 Holloway Avenue San Francisco, CA 94132
+"lat":37.7219699,
+"lng":-122.4794032
+
+Santa Barbara City College
+721 Cliff Drive Santa Barbara, CA 93109
+"lat":34.4064006,
+"lng":-119.6972865
+
+Santa Clara University
+500 El Camino Real Santa Clara, CA 95053
+"lat":37.3501066,
+"lng":-121.9403398
+
+Santa Rosa Junior College
+1501 Mendocino Avenue Santa Rosa, CA 95401
+"lat":38.458207,
+"lng":-122.719725
+
+Sonoma State University
+1801 East Cotati Ave Rohnert Park, CA 94928
+"lat":38.3393615,
+"lng":-122.6733474
+
+Stanford University
+Stanford, CA 94305
+"lat":37.4435369,
+"lng":-122.149475
+
+University of California Berkeley
+545 Student Services Berkeley, CA 94720
+"lat":37.8672179,
+"lng":-122.2554729
+
+University of California Davis
+One Shields Avenue Davis, CA 95616
+"lat":38.5398435,
+"lng":-121.7550281
+
+University of California Irvine
+Irvine, CA 92697
+"lat":33.6509299,
+"lng":-117.839216
+
+University of California Los Angeles
+Los Angeles, CA 90095
+"lat":34.076625,
+"lng":-118.437812
+
+University of California Riverside
+900 University Avenue Riverside, CA 92521
+"lat":33.9754232,
+"lng":-117.3316783
+
+University of California San Diego
+9500 Gilman Dr La Jolla, CA 92093
+"lat":32.8754964,
+"lng":-117.2383261
+
+University of California Santa Cruz
+1156 High Street Santa Cruz, CA 95064
+"lat":36.9776244,
+"lng":-122.0543182
+
+University of the Pacific San Francisco Campus
+2155 Webster Street San Francisco, CA 94115
+"lat":37.79021600000001,
+"lng":-122.433173
+
+University of the Pacific Sacramento Campus
+3200 Fifth Avenue Sacramento, CA 95817
+"lat":38.5492664,
+"lng":-121.472774
+
+University of the Pacific Stockton
+3601 Pacific Avenue Stockton, CA 95211
+"lat":37.9803123,
+"lng":-121.3126245
+
+University of Southern California
+University Park Campus Los Angeles, CA 90089
+"lat":34.0234397,
+"lng":-118.2851843
+
+University of Southern California
+Health Sciences Campus Los Angeles, CA 90033
+"lat":34.0655129,
+"lng":-118.1985295
+
+Colorado Christian University
+8787 W. Alameda Ave Lakewood, CO 80226
+"lat":39.71216099999999,
+"lng":-105.094842
+
+Colorado College
+14 East Cache La Poudre St Colorado Springs, CO 80903
+"lat":38.8466749,
+"lng":-104.8237941
+
+Colorado Institute of Art
+1200 Lincoln Street Denver, CO 80203
+"lat":39.735849,
+"lng":-104.985729
+
+Colorado School of Mines
+1500 Illinois St Golden, CO 80401
+"lat":39.7510216,
+"lng":-105.2225769
+
+Colorado State University
+Fort Collins, CO 80523
+"lat":40.57,
+"lng":-105.09
+
+Fort Lewis College
+1000 Rim Drive Durango, CO 81301
+"lat":37.273814,
+"lng":-107.871162
+
+Mesa State College
+1100 North Avenue Grand Junction, CO 81502
+"lat":39.078928,
+"lng":-108.553614
+
+Metropolitan State College of Denver
+Denver, CO 80217
+"lat":39.79346,
+"lng":-104.90183
+
+Regis College
+3333 Regis Boulevard Denver, CO 80221
+"lat":39.7875977,
+"lng":-105.0323727
+
+University of Colorado Boulder
+Boulder, CO 80309
+"lat":40.01294,
+"lng":-105.2855729
+
+University of Northern Colorado
+Greeley, CO 80639
+"lat":40.410106,
+"lng":-104.6830201
+
+Colorado State University Pueblo
+2200 Bonforte Blvd Pueblo, CO 81001
+"lat":38.3060152,
+"lng":-104.579911
+
+Western State College of Colorado
+600 North Adams Street Gunnison, CO 81231
+"lat":38.5466342,
+"lng":-106.917701
+
+Bridgeport University
+126 Park Avenue Bridgeport, CT 06604
+"lat":41.16465240000001,
+"lng":-73.19049489999999
+
+Fairfield University
+1073 North Benson Road Fairfield, CT 06824
+"lat":41.1611043,
+"lng":-73.2543443
+
+Quinnipiac College
+275 Mount Carmel Ave Hamden, CT 06518
+"lat":41.419218,
+"lng":-72.893968
+
+Trinity College
+300 Summit St Hartford, CT 06106
+"lat":41.7477195,
+"lng":-72.6904035
+
+University of Connecticut
+Storrs Mansfield, CT 06269
+"lat":41.8325509,
+"lng":-72.231561
+
+University of New Haven
+300 Boston Post Road West Haven, CT 06516
+"lat":41.291139,
+"lng":-72.96115899999999
+
+Wesleyan University
+Wesleyan Station Middletown, CT 06459
+"lat":41.5568056,
+"lng":-72.65727099999999
+
+Western Connecticut State University
+181 White Street Danbury, CT 06810
+"lat":41.39879930000001,
+"lng":-73.4429598
+
+Yale University
+265 Church Street New Haven, CT 06511
+"lat":41.309936,
+"lng":-72.922303
+
+Art Institute of Fort Lauderdale
+1799 S. E. 17th Street Ft. Lauderdale, FL 33316
+"lat":26.1005907,
+"lng":-80.12368549999999
+
+Barry University
+11300 N.E. Second Avenue Miami Shores, FL 33161
+"lat":25.878502,
+"lng":-80.196719
+
+Embry Riddle Aeronautical University
+600 South Clyde Morris Blvd Daytona Beach, FL 32114
+"lat":29.1890201,
+"lng":-81.04696419999999
+
+Flagler College
+St. Augustine, FL 32085
+"lat":29.8917023,
+"lng":-81.31632739999999
+
+Florida A&M University
+Tallahassee, FL 32307
+"lat":30.4290399,
+"lng":-84.2896449
+
+Florida Atlantic University
+777 Glades Road Boca Raton, FL 33431
+"lat":26.3656656,
+"lng":-80.1060943
+
+Florida Atlantic University
+2912 College Avenue Davie, FL 33314
+"lat":26.0818037,
+"lng":-80.23630709999999
+
+Florida Atlantic University
+101 North Beach Road Dania Beach, FL 33004
+"lat":26.0548311,
+"lng":-80.11327560000001
+
+Florida Atlantic University
+111 East Las Olas Boulevard Fort Lauderdale, FL 33301
+"lat":26.1196069,
+"lng":-80.141858
+
+Florida Atlantic University
+5353 Parkside Drive Jupiter, FL 33458
+"lat":26.8874827,
+"lng":-80.11737769999999
+
+Florida Atlantic University
+500 NW California Boulevard Port St. Lucie, FL 34986
+"lat":27.3180947,
+"lng":-80.39920149999999
+
+Florida Institute of Technology
+150 W. University Blvd Melbourne, FL 32901
+"lat":28.0600848,
+"lng":-80.62442419999999
+
+Florida International University
+11200 S.W. 8th Street Miami, FL 33199
+"lat":25.7571493,
+"lng":-80.37976549999999
+
+Florida International University
+3000 N.E. 151st Street North Miami, FL 33181
+"lat":25.9195099,
+"lng":-80.12817
+
+Florida International University
+17195 Sheridan Street Pembroke Pines, FL 33351
+"lat":26.0294062,
+"lng":-80.3771862
+
+Florida International University
+1001 Washington Avenue Miami Beach, FL 33139
+"lat":25.7809424,
+"lng":-80.1326242
+
+Florida State University
+Tallahassee, FL 32306
+"lat":30.4407853,
+"lng":-84.28835189999999
+
+IMPAC University
+900 West Marion Avenue Punta Gorda, FL 33950
+"lat":26.929035,
+"lng":-82.059973
+
+Jacksonville University
+2800 University Boulevard North Jacksonville, FL 32211
+"lat":30.359059,
+"lng":-81.606543
+
+Johnson & Wales University
+1701 NE 127 Street North Miami, FL 33181
+"lat":25.89405,
+"lng":-80.16521500000002
+
+Jones College Arlington
+5353 Arlington Expressway Jacksonville, FL 32211
+"lat":30.327998,
+"lng":-81.60971099999999
+
+Jones College West
+1195 Edgewood Ave. South Jacksonville, FL 32205
+"lat":30.308849,
+"lng":-81.712665
+
+Jones College Miami
+11430 North Kendall Drive Miami, FL 33176
+"lat":25.687533,
+"lng":-80.335127
+
+Lynn University
+3601 North Military Trail Boca Raton, FL 33431
+"lat":26.384176,
+"lng":-80.125283
+
+Nova Southeastern University
+3301 College Avenue, Fort Lauderdale Dr, FL 33314
+"lat":26.122186,
+"lng":-80.1043615
+
+Rollins College
+1000 Holt Ave Winter Park, FL 32789
+"lat":28.592242,
+"lng":-81.348326
+
+Schiller International University
+453 Edgewater Drive Dunedin, FL 34698
+"lat":28.0066088,
+"lng":-82.7922128
+
+Stetson University
+421 N. Woodland Blvd DeLand, FL 32723
+"lat":29.036794,
+"lng":-81.30470099999999
+
+Talmudic University
+1910 Alton Road Miami Beach, FL 33139
+"lat":25.794987,
+"lng":-80.141739
+
+University of Central Florida
+Millican Hall Orlando, FL 32816
+"lat":28.5991052,
+"lng":-81.2023202
+
+University of Florida
+Gainesville, FL 32611
+"lat":29.6130239,
+"lng":-82.371937
+
+University of Miami
+Coral Gables, FL 33124
+"lat":25.75,
+"lng":-80.25999999999999
+
+University of North Florida
+Jacksonville, FL 32224
+"lat":30.323679,
+"lng":-81.419828
+
+University of Central Florida
+4000 Central Florida Blvd Orlando, FL 32816
+"lat":28.5968816,
+"lng":-81.2033141
+
+University of Sarasota
+5250 17th Street Sarasota, FL 34235
+"lat":27.351431,
+"lng":-82.465362
+
+University of South Florida
+4202 E. Fowler Avenue Tampa, FL 33620
+"lat":28.0581797,
+"lng":-82.4167751
+
+University of Tampa
+401 W. Kennedy Blvd Tampa, FL 33606
+"lat":27.9463525,
+"lng":-82.4640842
+
+University of West Florida
+11000 University Pkwy Pensacola, FL 32514
+"lat":30.549097,
+"lng":-87.215273
+
+Webster University North Florida
+6104 Gazebo Park Place South Jacksonville, FL 32257
+"lat":30.188776,
+"lng":-81.563805
+
+Webster University North Florida
+Naval Air Station Jacksonville, FL 32212
+"lat":30.2052,
+"lng":-81.6849
+
+Agnes Scott College
+141 E. College Ave Decatur, GA 30030
+"lat":33.7692226,
+"lng":-84.29455369999999
+
+Art Institute of Atlanta
+100 Embassy Row Atlanta, GA 30328
+"lat":33.9365569,
+"lng":-84.35414019999999
+
+Emory University
+201 Dowman Drive Atlanta, GA 30322
+"lat":33.790673,
+"lng":-84.3253388
+
+Georgia College & State University
+100 College Station Drive Macon, GA 31206
+"lat":32.808752,
+"lng":-83.73253989999999
+
+Georgia Institute of Technology
+Atlanta, GA 30332
+"lat":33.7743849,
+"lng":-84.37645999999999
+
+Georgia Perimeter College Decatur
+3251 Panthersville Road Decatur, GA 30034
+"lat":33.6877716,
+"lng":-84.27259389999999
+
+Georgia Southwestern State University
+800 Georgia Southwestern State University Drive Americus, GA 31709
+"lat":32.0623432,
+"lng":-84.2115589
+
+Georgia State University
+Atlanta, GA 30302
+"lat":33.75,
+"lng":-84.39999999999999
+
+Ogelthorpe University
+4484 Peachtree Road Atlanta, GA 30319
+"lat":33.8749844,
+"lng":-84.3336721
+
+State University of West Georgia
+1601 Maple St Carrollton, GA 30118
+"lat":33.570706,
+"lng":-85.10343109999999
+
+Toccoa Falls College
+Toccoa Falls, GA 30598
+"lat":34.59452,
+"lng":-83.3557393
+
+University of Georgia
+Athens, GA 30602
+"lat":33.9579309,
+"lng":-83.35933
+
+Chaminade University
+3140 Waialae Avenue Honolulu, HI 96816
+"lat":21.29079,
+"lng":-157.805838
+
+TransPacific Hawaii College
+5257 Kalanianaole Hwy Honolulu, HI 96821
+"lat":21.277885,
+"lng":-157.7522762
+
+University of Hawaii at Manoa
+2500 Campus Road Honolulu, HI 96822
+"lat":21.2978757,
+"lng":-157.8208116
+
+Albertson College
+2112 Cleveland Blvd Caldwell, ID 83605
+"lat":43.653597,
+"lng":-116.676876
+
+Boise State University
+1910 University Drive Boise, ID 83725
+"lat":43.6039513,
+"lng":-116.2042319
+
+Brigham Young University
+525 South Center St Rexburg, ID 83460
+"lat":43.8196661,
+"lng":-111.7828611
+
+Idaho State University
+921 South 8th Avenue Pocatello, ID 83209
+"lat":42.861456,
+"lng":-112.432966
+
+Northwest Nazarene University
+623 Holly Street Nampa, ID 83686
+"lat":43.559807,
+"lng":-116.565928
+
+University of Idaho
+Moscow, ID 83844
+"lat":46.7311129,
+"lng":-117.008345
+
+Bradley University
+1501 W. Bradley Avenue Peoria, IL 61625
+"lat":40.6970957,
+"lng":-89.61624289999999
+
+Dominican University
+7900 W. Division St River Forest, IL 60305
+"lat":41.9012438,
+"lng":-87.8234616
+
+Eastern Illinois University
+600 Lincoln Avenue Charleston, IL 61920
+"lat":39.4837448,
+"lng":-88.1752054
+
+Governers State University
+1 University Parkway University Park, IL 60466
+"lat":41.4493472,
+"lng":-87.7135595
+
+Illinois Institute of Technology
+3300 South Federal Street Chicago, IL 60616
+"lat":41.831751,
+"lng":-87.627296
+
+Illinois State University
+Normal, IL 61790
+"lat":40.5102643,
+"lng":-88.9979584
+
+Illinois Wesleyan University
+1312 Park Street Bloomington, IL 61701
+"lat":40.4914891,
+"lng":-88.98988299999999
+
+Knox College
+2 East South Street Galesburg, IL 61401
+"lat":40.94371659999999,
+"lng":-90.3710907
+
+Kentucky Christian College
+100 College Drive Kankakee, IL 60901
+"lat":41.1004618,
+"lng":-87.84661249999999
+
+Lake Forest College
+555 N. Sheridan Rd Lake Forest, IL 60045
+"lat":42.2506664,
+"lng":-87.82843849999999
+
+Lewis University
+One University Parkway Romeoville, IL 60446
+"lat":41.6053982,
+"lng":-88.07552029999999
+
+Loyola University
+6525 N. Sheridan Rd Chicago, IL 60626
+"lat":41.999113,
+"lng":-87.660298
+
+MacMurray College
+447 E. College Avenue Jacksonville, IL 62650
+"lat":39.731828,
+"lng":-90.223117
+
+North Central College
+30 North Brainard Street Naperville, IL 60540
+"lat":41.77821100000001,
+"lng":-88.1425019
+
+North Park College
+3225 West Foster Avenue Chicago, IL 60625
+"lat":41.975285,
+"lng":-87.709554
+
+Olivet Nazarene University
+One University Avenue Bourbonnais, IL 60914
+"lat":41.1536212,
+"lng":-87.87427439999999
+
+Northern Illinois University
+1425 W, Lincoln Hwy DeKalb, IL 60115
+"lat":41.9307443,
+"lng":-88.7798916
+
+Northwestern University
+633 Clark Street Evanston, IL 60208
+"lat":42.0498799,
+"lng":-87.67968019999999
+
+Quincy University
+1800 College Ave Quincy, IL 62301
+"lat":39.939239,
+"lng":-91.385734
+
+Southern Illinois University Carbondale
+Carbondale, IL 62901
+"lat":37.7620069,
+"lng":-89.151448
+
+Southern Illinois University Edwardsville
+Edwardsville, IL 62026
+"lat":38.79282,
+"lng":-89.99533
+
+University of Chicago
+5801 South Ellis Ave Chicago, IL 60637
+"lat":41.7901128,
+"lng":-87.60073179999999
+
+University of Illinois Springfield
+One University Plaza Springfield, IL 62703
+"lat":39.7382741,
+"lng":-89.61211419999999
+
+University of Illinois Urbana Champaign
+1401 West Green Street Urbana, IL 61801
+"lat":40.1097387,
+"lng":-88.22731469999999
+
+Western Illinois University
+University Circle Macomb, IL 61455
+"lat":40.46366700000001,
+"lng":-90.68174300000001
+
+Ball State University
+2000 W. University Ave Muncie, IN 47306
+"lat":40.208958,
+"lng":-85.407777
+
+Depauw University 
+313 S. Locust St Greencastle, IN 46135
+"lat":39.640959,
+"lng":-86.8603334
+
+Hanover College
+Hanover, IN 47243
+"lat":38.7300909,
+"lng":-85.45599
+
+Huntington University
+2303 College Avenue Huntington, IN 46750
+"lat":40.8990026,
+"lng":-85.499843
+
+Indiana Perdue University in Fort Wayne
+2101 E. Coliseum Blvd. Fort Wayne, IN 46805
+"lat":41.1208839,
+"lng":-85.105046
+
+Indiana University Indianapolis
+425 University Blvd. Indianapolis, IN 46202
+"lat":39.7739005,
+"lng":-86.1755577
+
+Indiana University Bloomington
+107 S. Indiana Ave Bloomington, IN 47405
+"lat":39.1661368,
+"lng":-86.52654079999999
+
+Indiana Wesleyan University
+4201 South Washington Street Marion, IN 46953
+"lat":40.521759,
+"lng":-85.665678
+
+Purdue University North Central
+1401 S. U.S. 421 Westville, IN 46391
+"lat":41.5865972,
+"lng":-86.89687959999999
+
+Saint Joseph's College
+Rensselaer, IN 47978
+"lat":40.96076,
+"lng":-87.1321392
+
+University of Indianapolis
+1400 East Hanna Avenue Indianapolis, IN 46227
+"lat":39.708046,
+"lng":-86.1373459
+
+University of Notre Dame
+Notre Dame, IN 46556
+"lat":41.7089081,
+"lng":-86.22531979999999
+
+Wabash College
+Crawfordsville, IN 47933
+"lat":40.0856481,
+"lng":-86.8573871
+
+Buena Vista University
+610 W. Fourth Street Storm Lake, IA 50588
+"lat":42.6412989,
+"lng":-95.2087641
+
+Central College
+812 University Pella, IA 50219
+"lat":41.4001872,
+"lng":-92.91967059999999
+
+Coe College
+1220 First Avenue NE Cedar Rapids, IA 52402
+"lat":41.987522,
+"lng":-91.65840799999999
+
+Cornell College
+600 First Street SW Mount Vernon, IA 52314
+"lat":41.92473280000001,
+"lng":-91.42348989999999
+
+Dordt College
+498 4th Ave NE Sioux Center, IA 51250
+"lat":43.0815868,
+"lng":-96.16986419999999
+
+Drake University
+2507 University Avenue Des Moines, IA 50311
+"lat":41.599703,
+"lng":-93.66127969999999
+
+Grinnell College
+Grinnell, IA 50112
+"lat":41.7628494,
+"lng":-92.70178009999999
+
+Iowa State University
+Ames, IA 50011
+"lat":42.0364014,
+"lng":-93.58598189999999
+
+Luther College
+700 College Drive Decorah, IA 52101
+"lat":43.3131961,
+"lng":-91.79962070000001
+
+Northwestern College
+101 7th St SW Orange City, IA 51041
+"lat":42.9987869,
+"lng":-96.0589866
+
+Palmer College of Chiropractic
+1000 Brady Street Davenport, IA 52803
+"lat":41.529376,
+"lng":-90.5748289
+
+University of Iowa
+107 Calvin Hall Iowa City, IA 52242
+"lat":41.6630326,
+"lng":-91.5362825
+
+Upper Iowa University
+605 Washington Street Fayette, IA 52142
+"lat":42.8386931,
+"lng":-91.80078639999999
+
+Wartburg College
+100 Wartburg Blvd Waverly, IA 50677
+"lat":42.7290104,
+"lng":-92.483232
+
+William Penn College
+201 Trueblood Avenue Oskaloosa, IA 52577
+"lat":41.3089163,
+"lng":-92.6476148
+
+Dodge City Community College
+2501 N. 14th Ave. Dodge City, KS 67801
+"lat":37.7782951,
+"lng":-100.0330454
+
+Fort Hays State University
+600 Park Street Hays, KS 67601
+"lat":38.8731302,
+"lng":-99.3401772
+
+Hesston College
+325 S. College Dr Hesston, KS 67062
+"lat":38.1354526,
+"lng":-97.4361629
+
+Kansas State University
+Manhattan, KS 66506
+"lat":39.2061981,
+"lng":-96.55883209999999
+
+MidAmerica Nazarene University
+College Way Olathe, KS 66062
+"lat":38.8759401,
+"lng":-94.7797896
+
+University of Kansas
+Lawrence, KS 66045
+"lat":38.96565,
+"lng":-95.240577
+
+Washburn University
+1700 SW College Ave Topeka, KS 66621
+"lat":39.03665300000001,
+"lng":-95.7019425
+
+Cumberland College
+6191 College Station Dr Williamsburg, KY 40769
+"lat":36.762155,
+"lng":-84.143406
+
+Eastern Kentucky University
+521 Lancaster Avenue Richmond, KY 40475
+"lat":37.7424854,
+"lng":-84.3013906
+
+Morehead State University
+150 University Morehead, KY 40351
+"lat":38.1869644,
+"lng":-83.43516460000001
+
+Murray State University
+113 Sparks Hall Murray, KY 42071
+"lat":36.6102744,
+"lng":-88.32246069999999
+
+Northern Kentucky University
+Nunn Drive Highland Heights, KY 41099
+"lat":39.03513179999999,
+"lng":-84.4541546
+
+Thomas More College
+333 Thomas More Parkway Crestview Hills, KY 41017
+"lat":39.0240222,
+"lng":-84.56798789999999
+
+Transylvania University
+300 North Broadway Lexington, KY 40508
+"lat":38.052177,
+"lng":-84.4936835
+
+University of Kentucky
+Lexington, KY 40506
+"lat":38.02,
+"lng":-84.5
+
+University of Louisville
+Louisville, KY 40292
+"lat":38.2194749,
+"lng":-85.76141699999999
+
+Western Kentucky University
+1906 College Heights Blvd Bowling Green, KY 42101
+"lat":36.9867184,
+"lng":-86.4556285
+
+Louisiana State University at Baton Rouge
+114 David Boyd Hall Baton Rouge, LA 70803
+"lat":30.4141018,
+"lng":-91.17842979999999
+
+McNeese State University
+4205 Ryan Street Lake Charles, LA 70609
+"lat":30.18036249999999,
+"lng":-93.21795139999999
+
+Nicholls State University
+Thibodaux, LA 70310
+"lat":29.79585699999999,
+"lng":-90.7999909
+
+Tulane University
+New Orleans, LA 70118
+"lat":29.9811509,
+"lng":-90.1076509
+
+University of New Orleans
+2000 Lakeshore Drive New Orleans, LA 70148
+"lat":30.0282953,
+"lng":-90.06930509999999
+
+University of Louisiana
+104 University Circle Lafayette, LA 70504
+"lat":30.2171742,
+"lng":-92.01887610000001
+
+Xavier University of Louisiana
+1 Drexel Drive New Orleans, LA 70125
+"lat":29.9658436,
+"lng":-90.10084529999999
+
+Bates College
+2 Andrews Rd. Lewiston, ME 04240
+"lat":44.1067532,
+"lng":-70.20420039999999
+
+Bowdoin College
+Brunswick, ME 04011
+"lat":43.975778,
+"lng":-69.8570721
+
+Colby College
+4000 Mayflower Hill Waterville, ME 04901
+"lat":44.5676025,
+"lng":-69.64100689999999
+
+College of the Atlantic
+105 Eden Street Bar Harbor, ME 04609
+"lat":44.395359,
+"lng":-68.221822
+
+Thomas College
+180 West River Road Waterville, ME 04901
+"lat":44.5317048,
+"lng":-69.65759079999999
+
+Unity College
+90 Quaker Hill Road Unity, ME 04988
+"lat":44.6045515,
+"lng":-69.33119239999999
+
+University of Maine
+Orono, ME 04469
+"lat":44.9050939,
+"lng":-68.661399
+
+University of Maine Fort Kent
+23 University Drive Fort Kent, ME 04743
+"lat":47.2506906,
+"lng":-68.5897477
+
+University of New England
+11 Hills Beach Road Biddeford, ME 04005
+"lat":43.4587034,
+"lng":-70.38929209999999
+
+University of New England
+716 Stevens Ave. Portland, ME 04103
+"lat":43.683291,
+"lng":-70.2938583
+
+University of Southern Maine
+Portland, ME 04104
+"lat":43.6599999,
+"lng":-70.27
+
+Bowie State University
+14000 Jericho Park Rd Bowie, MD 20715
+"lat":39.019649,
+"lng":-76.75786100000001
+
+Coppin State College
+2500 West North Avenue Baltimore, MD 21216
+"lat":39.3100039,
+"lng":-76.65878889999999
+
+Johns Hopkins University
+3400 North Charles Street Baltimore, MD 21218
+"lat":39.3274427,
+"lng":-76.62077669999999
+
+Loyola College
+4501 N. Charles Street Baltimore, MD 21210
+"lat":39.3456808,
+"lng":-76.6186427
+
+MICA Institute College of Art
+1300 Mount Royal Avenue Baltimore, MD 21217
+"lat":39.307555,
+"lng":-76.621634
+
+Saint John's College
+60 College Avenue Annapolis, MD 21401
+"lat":38.981963,
+"lng":-76.491536
+
+Saint Mary's College
+18952 E. Fisher Rd St.Mary's City, MD 20686
+"lat":38.1877502,
+"lng":-76.42415699999999
+
+Towson State University
+8000 York Road Towson, MD 21252
+"lat":39.3925527,
+"lng":-76.6061512
+
+University of Baltimore
+1420 N. Charles St Baltimore, MD 21201
+"lat":39.3061515,
+"lng":-76.6168857
+
+University of Maryland
+College Park, MD 20742
+"lat":38.9810284,
+"lng":-76.9441362
+
+Washington College
+300 Washington Ave Chestertown, MD 21620
+"lat":39.219591,
+"lng":-76.06756
+
+Amherst College
+Amherst, MA 01002
+"lat":42.433715,
+"lng":-72.46418589999999
+
+Assumption College
+500 Salisbury St Worcester, MA 01609
+"lat":42.2922003,
+"lng":-71.8281791
+
+Atlantic Union College
+338 Main Street South Lancaster, MA 01561
+"lat":42.4449719,
+"lng":-71.6842278
+
+Bentley College
+175 Forest Street Waltham, MA 02452
+"lat":42.38769629999999,
+"lng":-71.2202132
+
+Berklee School of Music
+1140 Boylston Street Boston, MA 02215
+"lat":42.3466639,
+"lng":-71.0895149
+
+Boston College
+140 Commonwealth Avenue Chestnut Hill, MA 02467
+"lat":42.3400645,
+"lng":-71.1668761
+
+Brandeis University
+415 South St Waltham, MA 02454
+"lat":42.3662483,
+"lng":-71.2588463
+
+Clark University
+950 Main Street Worcester, MA 01610
+"lat":42.2510828,
+"lng":-71.8235112
+
+College of the Holy Cross
+1 College Street Worcester, MA 01610
+"lat":42.237141,
+"lng":-71.806218
+
+Curry College
+1071 Blue Hill Avenue Milton, MA 02186
+"lat":42.2406763,
+"lng":-71.11481119999999
+
+Fitchburg State College
+160 Pearl St Fitchburg, MA 01420
+"lat":42.5880568,
+"lng":-71.7893021
+
+Hampshire College
+893 West Street Amherst, MA 01002
+"lat":42.3232636,
+"lng":-72.5248618
+
+Harvard University
+Cambridge, MA 02138
+"lat":42.3958519,
+"lng":-71.105599
+
+Holy Cross
+1 College Street Worcester, MA 01610
+"lat":42.237141,
+"lng":-71.806218
+
+Massachusetts Institute of Technology
+77 Massachusetts avenue Cambridge, MA 02139
+"lat":42.35978069999999,
+"lng":-71.09360909999999
+
+Merrimack College
+315 Turnpike Street North Andover, MA 01845
+"lat":42.6711164,
+"lng":-71.1239276
+
+Mount Holyoke College
+50 College Street South Hadley, MA 01075
+"lat":42.2554312,
+"lng":-72.5767372
+
+Smith College
+Northampton, MA 01063
+"lat":42.3219061,
+"lng":-72.6353251
+
+Stonehill College
+320 Washington Street Easton, MA 02357
+"lat":42.0656195,
+"lng":-71.0871511
+
+The Boston Architectural Center
+320 Newbury Street Boston, MA 02115
+"lat":42.348475,
+"lng":-71.08576699999999
+
+Tufts University
+Medford, MA 02155
+"lat":42.453395,
+"lng":-71.07183209999999
+
+University of Massachusetts
+Amherst, MA 01003
+"lat":42.4065638,
+"lng":-72.503987
+
+Wellesley College
+106 Central Street Wellesley, MA 02481
+"lat":42.29387970000001,
+"lng":-71.30697309999999
+
+Wentworth Institute of Technology
+550 Huntington Avenue Boston, MA 02115
+"lat":42.3366516,
+"lng":-71.0957071
+
+Western New England College
+1215 Wilbraham Road Springfield, MA 01119
+"lat":42.115861,
+"lng":-72.5214386
+
+Williams College
+Williamstown, MA 01267
+"lat":42.74594,
+"lng":-73.163566
+
+Worcester Polytechnic Institute
+100 Institute Road Worcester, MA 01609
+"lat":42.2743398,
+"lng":-71.8097734
+
+Albion College
+611 East Porter Street Albion, MI 49224
+"lat":42.244468,
+"lng":-84.746797
+
+Andrews University
+100 Old US 31 Berrien Springs, MI 49104
+"lat":41.9470037,
+"lng":-86.33757369999999
+
+Aquinas College
+1607 Robinson Road S.E Grand Rapids, MI 49506
+"lat":42.958166,
+"lng":-85.62586399999999
+
+Baker College
+4500 Enterprise Drive Allen Park, MI 48101
+"lat":42.2747548,
+"lng":-83.20327379999999
+
+Baker College
+1500 University Drive Auburn Hills, MI 48326
+"lat":42.659668,
+"lng":-83.248858
+
+Baker College
+9600 East 13th Street Cadillac, MI 49601
+"lat":44.26694699999999,
+"lng":-85.382863
+
+Baker College
+1116 West Bristol Road Flint, MI 48507
+"lat":42.9740008,
+"lng":-83.6971083
+
+Baker College
+34950 Little Mack Ave. Clinton Township, MI 48035
+"lat":42.553505,
+"lng":-82.9076429
+
+Baker College
+1050 West Bristol Road Flint, MI 48507
+"lat":42.975321,
+"lng":-83.6961123
+
+Baker College
+2800 Springport Road Jackson, MI 49202
+"lat":42.280245,
+"lng":-84.45145900000001
+
+Baker College
+1903 Marquette Avenue Muskegon, MI 49442
+"lat":43.2451424,
+"lng":-86.19618269999999
+
+Baker College
+1020 South Washington Street Owosso, MI 48867
+"lat":42.9829631,
+"lng":-84.1687249
+
+Baker College
+3403 Lapeer Road Port Huron, MI 48060
+"lat":42.97824199999999,
+"lng":-82.468541
+
+Calvin College
+3201 Burton SE Grand Rapids, MI 49546
+"lat":42.9269993,
+"lng":-85.58899710000001
+
+Central Michigan University
+Mount Pleasant, MI 48859
+"lat":43.59156,
+"lng":-84.7775159
+
+Ferris State University
+1201 S. State Street Big Rapids, MI 49307
+"lat":43.687953,
+"lng":-85.48290299999999
+
+Grand Valley State University
+1 Campus Drive Allendale, MI 49401
+"lat":42.966535,
+"lng":-85.88667199999999
+
+Kalamazoo College
+1200 Academy Street Kalamazoo, MI 49006
+"lat":42.290381,
+"lng":-85.60217899999999
+
+Lake Superior State University
+650 W. Easterday Ave Sault Ste. Marie, MI 49783
+"lat":46.4933293,
+"lng":-84.3654835
+
+Madonna University
+36600 Schoolcraft Road Livonia, MI 48150
+"lat":42.3854,
+"lng":-83.314565
+
+Michigan State University
+East Lansing, MI 48824
+"lat":42.7343749,
+"lng":-84.4645239
+
+Michigan Technological University
+1400 Townsend Drive Houghton, MI 49931
+"lat":47.11772819999999,
+"lng":-88.54200609999999
+
+Northern Michigan University
+1401 Presque Isle Ave Marquette, MI 49855
+"lat":46.5583227,
+"lng":-87.4024697
+
+Northwestern Michigan College
+1701 E. Front St Traverse City, MI 49686
+"lat":44.7653609,
+"lng":-85.5858994
+
+University of Michigan
+Ann Arbor, MI 48109
+"lat":42.3119899,
+"lng":-83.66124590000001
+
+University of Michigan
+Dearborn, MI 48128
+"lat":42.332377,
+"lng":-83.2248099
+
+University of Michigan
+Flint, MI 48502
+"lat":43.0242496,
+"lng":-83.679689
+
+Wayne State University
+Detroit, MI 48202
+"lat":42.3964819,
+"lng":-83.0541489
+
+Bemidji State University
+1500 Birchmont Drive NE Bemidji, MN 56601
+"lat":47.48606299999999,
+"lng":-94.87572
+
+Bethel College
+3900 Bethel Drive St.Paul, MN 55112
+"lat":45.0553985,
+"lng":-93.16581389999999
+
+Carleton College
+One North College Street Northfield, MN 55057
+"lat":44.4613965,
+"lng":-93.1559482
+
+College of St. Benedict St John's University
+37 S. College Ave. St. Joseph, MN 56374
+"lat":45.5603589,
+"lng":-94.32174889999999
+
+College of St. Scholastica
+1200 Kenwood Ave Duluth, MN 55811
+"lat":46.8152892,
+"lng":-92.1063784
+
+Concordia College
+901 8th St Moorhead, MN 56562
+"lat":46.8646529,
+"lng":-96.770257
+
+Concordia University
+275 Syndicate Street North St. Paul, MN 55104
+"lat":44.9496741,
+"lng":-93.1545077
+
+Fond du Lac Tribal Community College
+2101 14th Street Cloquet, MN 55720
+"lat":46.68976199999999,
+"lng":-92.451342
+
+Hamline University
+1536 Hewitt Avenue Saint Paul, MN 55104
+"lat":44.9671359,
+"lng":-93.16570399999999
+
+Macalester College
+1600 Grand Avenue St. Paul, MN 55105
+"lat":44.93979969999999,
+"lng":-93.16851989999999
+
+Mankato State University
+122 Taylor Center Mankato, MN 56001
+"lat":44.2413669,
+"lng":-93.90607890000001
+
+Metropolitan State University
+1501 Hennepin Avenue St. Paul, MN 55106
+"lat":44.972586,
+"lng":-93.283689
+
+Minnesota State University
+1500 Birchmont Drive NE Bemidji, MN 56601
+"lat":47.48606299999999,
+"lng":-94.87572
+
+Minnesota State University
+228 Wiecking Ctr Mankato, MN 56001
+"lat":44.1471323,
+"lng":-93.999651
+
+Minnesota State University Moorhead
+1104 7th Ave South Moorhead, MN 56563
+"lat":46.8673504,
+"lng":-96.7619771
+
+Saint Cloud State
+720 Fourth Avenue South St. Cloud, MN 56301
+"lat":45.5523443,
+"lng":-94.15267009999999
+
+Saint Olaf College
+1520 St. Olaf Avenue Northfield, MN 55057
+"lat":44.4625569,
+"lng":-93.185098
+
+SouthWest State University
+Marshall, MN 56258
+"lat":44.484393,
+"lng":-95.745678
+
+University of Minnesota Duluth
+1049 University Drive Duluth, MN 55812
+"lat":46.81732419999999,
+"lng":-92.0840295
+
+University of Minnesota Morris
+600 East 4th Street Morris, MN 56267
+"lat":45.5897349,
+"lng":-95.9029987
+
+University of Minnesota Twin Cities
+231 Pillsbury Drive SE Minneapolis, MN 55455
+"lat":44.9775333,
+"lng":-93.2346275
+
+University of St Thomas
+2115 Summit Avenue Saint Paul, MN 55105
+"lat":44.943407,
+"lng":-93.188982
+
+Winona State University
+Winona, MN 55987
+"lat":44.12680539999999,
+"lng":-91.5997206
+
+Millsaps College
+1701 North State Street Jackson, MS 39210
+"lat":32.322401,
+"lng":-90.1782623
+
+Mississippi College
+200 S. Capitol Street Clinton, MS 39058
+"lat":32.3381248,
+"lng":-90.33172159999999
+
+Mississippi State University
+Mississippi State, MS 39762
+"lat":33.45622,
+"lng":-88.79570799999999
+
+Mississippi University for Women
+1100 College Street Columbus, MS 39701
+"lat":33.4946982,
+"lng":-88.41906089999999
+
+University of Mississippi
+University, MS 38677
+"lat":34.3716748,
+"lng":-89.531713
+
+University of Southern Mississippi
+118 College Drive Hattiesburg, MS 39406
+"lat":31.3280641,
+"lng":-89.33205129999999
+
+Grantham University
+1700 NW 86th Street Kansas City, MO 64153
+"lat":39.2503376,
+"lng":-94.6688559
+
+Missouri Western State University
+4525 Downs Drive St. Joseph, MO 64507
+"lat":39.7576384,
+"lng":-94.78551759999999
+
+Northwest Missouri State University
+800 University Drive Maryville, MO 64468
+"lat":40.3519243,
+"lng":-94.88380909999999
+
+Park College
+8700 N.W. River Park Dr. Parkville, MO 64152
+"lat":39.1894618,
+"lng":-94.68109199999999
+
+Rockhurst University
+1100 Rockhurst Road Kansas City, MO 64110
+"lat":39.03313199999999,
+"lng":-94.57307499999999
+
+Southwest Missouri State University
+901 South National Avenue Springfield, MO 65897
+"lat":37.198562,
+"lng":-93.27846699999999
+
+Truman State University
+100 E. Normal Kirksville, MO 63501
+"lat":40.1885963,
+"lng":-92.5820887
+
+University of Missouri Columbia
+Columbia, MO 65211
+"lat":38.94585,
+"lng":-92.3623499
+
+University of Missouri Kansas City
+Kansas City, MO 64110
+"lat":39.0564028,
+"lng":-94.560255
+
+Washington University in St. Louis
+One Brookings Drive St. Louis, MO 63130
+"lat":38.6500375,
+"lng":-90.3121994
+
+Webster University
+470 E. Lockwood Ave St. Louis, MO 63119
+"lat":38.590666,
+"lng":-90.345316
+
+Westminster College
+501 Westminster Avenue Fulton, MO 65251
+"lat":38.8499995,
+"lng":-91.95441129999999
+
+Carroll College
+1601 North Benton Ave Helena, MT 59625
+"lat":46.600734,
+"lng":-112.03888
+
+Montana State University Billings
+1500 University Drive Billings, MT 59101
+"lat":45.796901,
+"lng":-108.522204
+
+Montana State University Bozeman
+Bozeman, MT 59717
+"lat":45.6603986,
+"lng":-111.0451818
+
+University of Montana Missoula
+32 Campus Drive Missoula, MT 59812
+"lat":46.8642948,
+"lng":-113.9827527
+
+College of St. Mary
+7000 Mercy Road Omaha, NE 68106
+"lat":41.2404245,
+"lng":-96.021191
+
+Creighton University
+2500 California Plaza Omaha, NE 68178
+"lat":41.2656364,
+"lng":-95.94808279999999
+
+Dana College
+2848 College Drive Blair, NE 68008
+"lat":41.5516472,
+"lng":-96.15530559999999
+
+Doane College
+1014 Boswell Avenue Crete, NE 68333
+"lat":40.622629,
+"lng":-96.9518796
+
+Hastings College
+710 N. Turner Hastings, NE 68901
+"lat":40.5900185,
+"lng":-98.37497379999999
+
+Nebraska Wesleyan University
+5000 St. Paul Ave. Lincoln, NE 68504
+"lat":40.838785,
+"lng":-96.64759649999999
+
+Peru State College
+600 Holy St Peru, NE 68421
+"lat":14.6607375,
+"lng":121.1069071
+
+University of Nebraska Kearney
+905 West 25th Street Kearney, NE 68849
+"lat":40.700714,
+"lng":-99.0941783
+
+University of Nebraska Omaha
+Omaha, NE 68182
+"lat":41.2596229,
+"lng":-96.0049279
+
+University of Nevada Las Vegas
+4505 maryland Pkwy Las Vegas, NV 89154
+"lat":36.109511,
+"lng":-115.141935
+
+University of Nevada Reno
+1664 N. Virginia St Reno, NV 89557
+"lat":39.5455432,
+"lng":-119.8200021
+
+Dartmouth College
+Hanover, NH 03755
+"lat":43.770955,
+"lng":-72.08938909999999
+
+Franklin Pierce College
+20 College Road Rindge, NH 03461
+"lat":42.79329389999999,
+"lng":-71.928811
+
+Southern New Hampshire University
+2500 N. River Road Manchester, NH 03106
+"lat":43.037636,
+"lng":-71.4539305
+
+Plymouth State College
+17 High Street Plymouth, NH 03264
+"lat":43.760675,
+"lng":-71.69093269999999
+
+Saint Anselm College
+100 Saint Anselm Drive Manchester, NH 03102
+"lat":42.9876626,
+"lng":-71.50621699999999
+
+Caldwell College
+9 Ryerson Ave Caldwell, NJ 07006
+"lat":40.8320977,
+"lng":-74.270251
+
+Centenary College
+400 Jefferson Street Hackettstown, NJ 07840
+"lat":40.846818,
+"lng":-74.83442099999999
+
+College of New Jersey
+2000 Pennington Road Ewing, NJ 08628
+"lat":40.2700304,
+"lng":-74.7771442
+
+Drew University
+36 Madison, NJ 07940
+"lat":40.7619835,
+"lng":-74.4264051
+
+Fairleigh Dickinson University
+1000 River Road Teaneck, NJ 07666
+"lat":40.8934053,
+"lng":-74.03105029999999
+
+Fairleigh Dickinson University
+285 Madison Avenue Madison, NJ 07940
+"lat":40.773587,
+"lng":-74.43973299999999
+
+Institute for Advanced Study
+Einstein Drive Princeton, NJ 08540
+"lat":40.334964,
+"lng":-74.665699
+
+Kean University
+1000 Morris Avenue Union, NJ 07083
+"lat":40.681039,
+"lng":-74.235569
+
+Monmouth University
+400 Cedar Avenue West Long Branch, NJ 07764
+"lat":40.2800924,
+"lng":-74.00433529999999
+
+Montclair State University
+Montclair, NJ 07043
+"lat":40.865223,
+"lng":-74.18268909999999
+
+New Jersey City University
+2039 Kennedy Boulevard Jersey City, NJ 07305
+"lat":40.7088205,
+"lng":-74.0866065
+
+New Jersey Institute of Technology
+University Heights Newark, NJ 07102
+"lat":40.751401,
+"lng":-74.1713879
+
+Princeton University
+Princeton, NJ 08544
+"lat":40.350418,
+"lng":-74.6531961
+
+Rider University
+2083 Lawrenceville Rd Lawrenceville, NJ 08648
+"lat":40.2800812,
+"lng":-74.7364163
+
+Rider University
+101 Walnut Lane Princeton, NJ 08540
+"lat":40.3562392,
+"lng":-74.6529123
+
+Rowan College
+201 Mullica Hill Road Glassboro, NJ 08028
+"lat":39.71056240000001,
+"lng":-75.1202953
+
+Rutgers University  Camden
+311 North 5th Street Camden, NJ 08102
+"lat":39.9479979,
+"lng":-75.12040399999999
+
+Rutgers University  Newark
+111 Washington Street Newark, NJ 07102
+"lat":40.7444482,
+"lng":-74.1716926
+
+Rutgers University  New Brunswick
+83 Somerset Street New Brunswick, NJ 08901
+"lat":40.4978623,
+"lng":-74.44635590000001
+
+Saint Peter's College
+2641 Kennedy Boulevard Jersey City, NJ 07306
+"lat":40.7275059,
+"lng":-74.0731085
+
+Seton Hall University
+400 South Orange Ave South Orange, NJ 07079
+"lat":40.742634,
+"lng":-74.24621499999999
+
+Stevens Institute of Technology
+Hoboken, NJ 07030
+"lat":40.759119,
+"lng":-74.015677
+
+Thomas Edison State College
+101 W. State St Trenton, NJ 08608
+"lat":40.220262,
+"lng":-74.768303
+
+William Paterson University
+300 Pompton Road Wayne, NJ 07470
+"lat":40.945901,
+"lng":-74.19838799999999
+
+New Mexico Highlands University
+Las Vegas, NM 87701
+"lat":35.631469,
+"lng":-105.18777
+
+New Mexico Tech
+801 Leroy Place Socorro, NM 87801
+"lat":34.066312,
+"lng":-106.904091
+
+New Mexico State University
+Las Cruces, NM 88003
+"lat":32.2870999,
+"lng":-106.7349099
+
+Western New Mexico University
+1000 W. College St. Silver City, NM 88062
+"lat":32.7753947,
+"lng":-108.2848746
+
+University of New Mexico
+Albuquerque, NM 87131
+"lat":35.09,
+"lng":-106.62
+
+Alfred University
+1 Saxon Drive Alfred, NY 14802
+"lat":42.2532381,
+"lng":-77.7876182
+
+Baruch College
+One Bernard Baruch Way New York, NY 10010
+"lat":40.7407732,
+"lng":-73.9821985
+
+Brooklyn College
+2900 Bedford Avenue Brooklyn, NY 11210
+"lat":40.6319593,
+"lng":-73.9527159
+
+Canisius College
+2001 Main Street Buffalo, NY 14208
+"lat":42.9252102,
+"lng":-78.8508403
+
+City College
+138th Street Convent Avenue New York, NY 10031
+"lat":40.8288084,
+"lng":-73.94235639999999
+
+Colgate University
+13 Oak Drive Hamilton, NY 13346
+"lat":42.8224645,
+"lng":-75.5416714
+
+Columbia University
+2960 Broadway New York, NY 10027
+"lat":40.8079816,
+"lng":-73.9632307
+
+Cooper Union for Advancement of Science and Art
+30 Cooper Square New York, NY 10003
+"lat":40.7281369,
+"lng":-73.99163899999999
+
+Cornell University
+410 Thurston Ave. Ithaca, NY 14850
+"lat":42.45396299999999,
+"lng":-76.484213
+
+Daemen College
+4380 Main Street Amherst, NY 14226
+"lat":42.964884,
+"lng":-78.789625
+
+Hartwick College
+One Hartwick Drive Oneonta, NY 13820
+"lat":42.4610928,
+"lng":-75.0701821
+
+Herkimer County Community College
+Reservoir Road Herkimer, NY 13350
+"lat":43.037705,
+"lng":-74.998711
+
+Hobart William Smith College
+Geneva, NY 14456
+"lat":42.89046,
+"lng":-76.963307
+
+Hofstra University
+Hempstead, NY 11549
+"lat":40.7132609,
+"lng":-73.62247289999999
+
+Hunter College
+695 Park Ave Newyork, NY 10021
+"lat":40.7685028,
+"lng":-73.9660975
+
+Hudson Valley Community College
+80 Vandenburgh Ave Troy, NY 12180
+"lat":42.696908,
+"lng":-73.68230299999999
+
+Ithaca College
+953 Danby Road Ithaca, NY 14850
+"lat":42.4196079,
+"lng":-76.495975
+
+Le Moyne College
+1419 Salt Springs Road Syracuse, NY 13214
+"lat":43.0476745,
+"lng":-76.0879678
+
+Lehman College
+250 Bedford Park Boulevard West Bronx, NY 10468
+"lat":40.87325,
+"lng":-73.89367639999999
+
+Manhattan College
+Riverdale, NY 10471
+"lat":40.9040101,
+"lng":-73.896705
+
+Marist College
+3399 North Road Poughkeepsie, NY 12601
+"lat":41.72293699999999,
+"lng":-73.936533
+
+Medgar Evers College
+1650 Bedford Avenue Brooklyn, NY 11225
+"lat":40.6662402,
+"lng":-73.9573494
+
+Nassau Community College
+One Education Drive Garden City, NY 11530
+"lat":40.7309012,
+"lng":-73.5906959
+
+New York City College of Technology
+300 Jay Street Brooklyn, NY 11201
+"lat":40.6955248,
+"lng":-73.98713959999999
+
+New York Institute of Technology
+Old Westbury, NY 11568
+"lat":40.81619389999999,
+"lng":-73.56460199999999
+
+New York University
+One half Fifth Avenue New York, NY 10003
+"lat":40.73141409999999,
+"lng":-73.9964942
+
+Niagara University
+New York, NY 14109
+"lat":40.7483509,
+"lng":-73.9851431
+
+Onondaga Community College
+4941 Onondaga Road Syracuse, NY 13215
+"lat":43.0099919,
+"lng":-76.1944369
+
+Polytechnic University
+Six Metro Tech Center Brooklyn, NY 11201
+"lat":40.6940105,
+"lng":-73.9867065
+
+Pratt Institute Brooklyn Campus
+200 Willoughby Ave. Brooklyn, NY 11205
+"lat":40.69217,
+"lng":-73.963032
+
+Pratt Institute
+144 West 14th Street New York, NY 10011
+"lat":40.7382006,
+"lng":-73.99887649999999
+
+Rensselaer Polytechnic Institute
+110 8th St Troy, NY 12180
+"lat":42.7308677,
+"lng":-73.68171839999999
+
+Queens College
+65 30 Kissena Blvd Flushing, NY 11367
+"lat":40.7376396,
+"lng":-73.8157813
+
+Rochester Institute of Technology
+One Lomb Memorial Drive Rochester, NY 14623
+"lat":43.0845747,
+"lng":-77.67458859999999
+
+Rockefeller University 1230 York Avenue
+New York, NY 10021
+"lat":40.778186,
+"lng":-73.945138
+
+Saint John's University 
+8000 Utopia Parkway Queens, NY 11439
+"lat":40.72431539999999,
+"lng":-73.79460809999999
+
+Skidmore College
+815 North Broadway Saratoga Springs, NY 12866
+"lat":43.0958516,
+"lng":-73.7852499
+
+Southampton College
+239 Montauk Highway Southampton, NY 11968
+"lat":40.8856768,
+"lng":-72.44731729999999
+
+State University of New York at Albany
+1400 Washington Ave Albany, NY 12222
+"lat":42.686744,
+"lng":-73.822852
+
+State University of New York at Binghamton
+Binghamton, NY 13902
+"lat":42.1017651,
+"lng":-75.90657829999999
+
+State University of New York at Brockport
+408 Capen Hall Buffalo, NY 14260
+"lat":42.96754,
+"lng":-78.82108199999999
+
+State University of New York at Buffalo State
+1300 Elmwood Avenue Buffalo, NY 14222
+"lat":42.9326142,
+"lng":-78.8769959
+
+State University of New York at Canton College of Technology
+34 Cornell Drive Canton, NY 13617
+"lat":44.6004225,
+"lng":-75.1808638
+
+State University of New York at  Geneseo
+1 College Circle Geneseo, NY 14454
+"lat":42.7976896,
+"lng":-77.8194908
+
+State University of New York at New Paltz
+1 Hawk Drive New Paltz, NY 12561
+"lat":41.7404324,
+"lng":-74.0868109
+
+State University of New York at Potsdam
+44 Pierrepont Avenue Potsdam, NY 13676
+"lat":44.6651,
+"lng":-74.9701369
+
+State University of New York at Plattsburg
+101 Broad Street Plattsburgh, NY 12901
+"lat":44.6948819,
+"lng":-73.46472949999999
+
+State University of New York at Stony brook
+Stony Brook, NY 11794
+"lat":40.91830059999999,
+"lng":-73.1175003
+
+Syracuse University
+Syracuse, NY 13244
+"lat":43.049482,
+"lng":-76.14264709999999
+
+The College of Staten Island
+2800 Victory Boulevard Staten Island, NY 10314
+"lat":40.6085521,
+"lng":-74.15383319999999
+
+Union College 
+807 Union St Schenectady, NY 12308
+"lat":42.8179041,
+"lng":-73.92881419999999
+
+United States Merchant Marine Academy
+300 Steamboat Road Kings Point, NY 11024
+"lat":40.81493469999999,
+"lng":-73.76241709999999
+
+University at Albany
+1400 Washington Ave Albany, NY 12222
+"lat":42.686744,
+"lng":-73.822852
+
+University of Rochester
+263 Wallis Hall Rochester, NY 14627
+"lat":43.1266697,
+"lng":-77.6306781
+
+Vassar College
+124 Raymond Ave Poughkeepsie, NY 12604
+"lat":41.68622939999999,
+"lng":-73.89724509999999
+
+Wells College
+170 Main Street Aurora, NY 13026
+"lat":42.754102,
+"lng":-76.703216
+
+York College
+94 20 Guy R. Brewer Blvd Jamaica, NY 11451
+"lat":40.7022966,
+"lng":-73.79601479999999
+
+Appalachian State University
+Boone, NC 28608
+"lat":36.2180071,
+"lng":-81.676312
+
+Belmont Abbey College
+100 Belmont Mt.Holly Rd Belmont, NC 28012
+"lat":35.2618624,
+"lng":-81.0433316
+
+Chowan College
+200 Jones Drive Murfreesboro, NC 27855
+"lat":36.3572732,
+"lng":-76.98425069999999
+
+Davidson College
+Davidson, NC 28035
+"lat":35.50603,
+"lng":-80.83945
+
+Duke University
+Durham, NC 27708
+"lat":36.0075109,
+"lng":-78.9156368
+
+East Carolina University
+East Fifth St Greenville, NC 27858
+"lat":35.611243,
+"lng":-77.3390718
+
+Fayetteville State University
+1200 Murchison Road Fayetteville, NC 28301
+"lat":35.0725063,
+"lng":-78.8938093
+
+Gardner Webb University
+Boiling Springs, NC 28017
+"lat":35.252161,
+"lng":-81.665578
+
+Guilford College
+5800 West Friendly Ave Greensboro, NC 27410
+"lat":36.089796,
+"lng":-79.8866077
+
+High Point University
+833 Montlieu Avenue High Point, NC 27262
+"lat":35.971095,
+"lng":-79.992206
+
+Montreat College
+310 Gaither Circle Montreat, NC 28757
+"lat":35.646103,
+"lng":-82.2973425
+
+North Carolina State University
+Raleigh, NC 27695
+"lat":35.81,
+"lng":-78.72
+
+North Carolina Wesleyan College
+3400 N Wesleyan Blvd Rocky Mount, NC 27804
+"lat":36.0190598,
+"lng":-77.7767922
+
+Saint Andrew's Presbyterian College
+1700 Dogwood Mile Laurinburg, NC 28352
+"lat":34.744214,
+"lng":-79.48060599999999
+
+University of North Carolina Asheville
+One University Heights Asheville, NC 28804
+"lat":35.6149447,
+"lng":-82.56638909999999
+
+University of North Carolina Wilmington
+601 S. College Road Wilmington, NC 28403
+"lat":34.2270852,
+"lng":-77.87929889999999
+
+Wake Forest University
+1834 Wake Forest Road Winston Salem, NC 27106
+"lat":36.1322792,
+"lng":-80.2775226
+
+Warren Wilson College
+Asheville, NC 28815
+"lat":35.5873507,
+"lng":-82.4874499
+
+Wingate University
+Wingate, NC 28174
+"lat":35.0035439,
+"lng":-80.4156699
+
+Dickinson State University
+291 Campus Drive Dickinson, ND 58601
+"lat":46.8819023,
+"lng":-102.8002473
+
+Jamestown College
+6000 College Lane Jamestown, ND 58405
+"lat":46.9157044,
+"lng":-98.70172049999999
+
+North Dakota State University
+1301 12th Avenue North Fargo, ND 58105
+"lat":46.896515,
+"lng":-96.80733499999999
+
+University of North Dakota
+Grand Forks, ND 58202
+"lat":47.96207889999999,
+"lng":-97.05965999999999
+
+Ashland University
+401 College Avenue Ashland, OH 44805
+"lat":40.8623834,
+"lng":-82.31918859999999
+
+Baldwin Wallace College
+275 Eastland Rd Berea, OH 44017
+"lat":41.3683888,
+"lng":-81.844544
+
+Bowling Green State University
+Bowling Green, OH 43403
+"lat":41.3826661,
+"lng":-83.6294489
+
+Case Western Reserve University
+Cleveland, OH 44106
+"lat":41.523641,
+"lng":-81.5799469
+
+Cedarville College
+251 N. Main St Cedarville, OH 45314
+"lat":39.7468599,
+"lng":-83.81102539999999
+
+Cleveland State University
+2121 Euclid Avenue Cleveland, OH 44115
+"lat":41.5036144,
+"lng":-81.67577299999999
+
+College of Akron
+302 Buchtel Common Akron, OH 44325
+"lat":41.076569,
+"lng":-81.51012659999999
+
+College of Wooster
+1189 Beall Avenue Wooster, OH 44691
+"lat":40.8110501,
+"lng":-81.9336187
+
+Denison University
+Granville, OH 43023
+"lat":40.086526,
+"lng":-82.466613
+
+Franciscan University of Steubenville
+1235 University Blvd. Steubenville, OH 43952
+"lat":40.374095,
+"lng":-80.62170999999999
+
+Heidelberg College
+310 E. Market St Tiffin, OH 44883
+"lat":41.1167467,
+"lng":-83.16842179999999
+
+Hiram College
+Hiram, OH 44234
+"lat":41.317463,
+"lng":-81.1343419
+
+John Carroll University
+20700 North Park Blvd University Heights, OH 44118
+"lat":41.4901948,
+"lng":-81.5314425
+
+Kent State University
+Kent, OH 44242
+"lat":41.15375,
+"lng":-81.35127
+
+Kenyon College
+Gambier, OH 43022
+"lat":40.3851711,
+"lng":-82.3856679
+
+Medical College of Ohio
+3000 Arlington Avenue Toledo, OH 43614
+"lat":41.6178782,
+"lng":-83.6163207
+
+Miami University
+102 Roudebush Hall Oxford, OH 45056
+"lat":39.5095978,
+"lng":-84.7341282
+
+Ohio Northern University
+525 S. Main Street Ada, OH 45810
+"lat":40.765407,
+"lng":-83.8237539
+
+Ohio University
+Athens, OH 45701
+"lat":39.3607349,
+"lng":-82.02705089999999
+
+Ohio State University
+154 W 12th Avenue Columbus, OH 43210
+"lat":39.9967807,
+"lng":-83.011672
+
+Ohio Wesleyan University
+61 S. Sandusky St Delaware, OH 43015
+"lat":40.2949678,
+"lng":-83.06811429999999
+
+Otterbein College
+One Otterbein College Westerville, OH 43081
+"lat":40.12736,
+"lng":-82.93538169999999
+
+University of Cincinnati
+2600 Clifton Ave Cincinnati, OH 45221
+"lat":39.13108,
+"lng":-84.5177841
+
+University of Dayton
+300 College Park Dayton, OH 45469
+"lat":39.740267,
+"lng":-84.1801454
+
+University of Toledo
+Toledo, OH 43606
+"lat":41.691284,
+"lng":-83.561995
+
+Walsh University
+2020 East Maple Street NW North Canton, OH 44720
+"lat":40.87407,
+"lng":-81.36889099999999
+
+Wilberforce University
+1055 N Bickett Road Wilberforce, OH 45384
+"lat":39.710638,
+"lng":-83.878929
+
+Wittenberg University
+200 West Ward Street Springfield, OH 45501
+"lat":39.93410799999999,
+"lng":-83.811221
+
+Wright State University
+3640 Colonel Glenn Highway Dayton, OH 45435
+"lat":39.7771437,
+"lng":-84.06610549999999
+
+Xavier University
+3800 Victory Parkway Cincinnati, OH 45207
+"lat":39.151812,
+"lng":-84.46904900000001
+
+Youngstown University
+One University Plaza Youngstown, OH 44555
+"lat":41.107003,
+"lng":-
+
+Cameron University
+2800 West Gore Boulevard Lawton, OK 73505
+"lat":34.6064542,
+"lng":-98.43406189999999
+
+Eastern Oklahoma State College
+1301 West Main Wilburton, OK 74578
+"lat":34.9129594,
+"lng":-95.3274376
+
+Northeastern State University
+600 N. Grand Ave Tahlequah, OK 74464
+"lat":35.9193965,
+"lng":-94.9672037
+
+Oklahoma Baptist University
+500 West University Shawnee, OK 74804
+"lat":35.3590518,
+"lng":-96.93102069999999
+
+Oklahoma Christian University
+Oklahoma City, OK 73136
+"lat":35.48999999999999,
+"lng":-97.47999999999999
+
+Oklahoma City University
+2501 North Blackwelder Oklahoma City, OK 73106
+"lat":35.4949676,
+"lng":-97.54410419999999
+
+Oklahoma Panhandle State University
+Goodwell, OK 73939
+"lat":36.602637,
+"lng":-101.6187599
+
+Oklahoma State University
+Stillwater, OK 74078
+"lat":36.1325181,
+"lng":-97.07179900000001
+
+Oral Roberts University
+7777 South Lewis Avenue Tulsa, OK 74171
+"lat":36.0481593,
+"lng":-95.95608209999999
+
+University of Central Oklahoma
+100 N. University Drive Edmond, OK 73034
+"lat":35.6617943,
+"lng":-97.47306349999999
+
+University of Oklahoma
+660 Parrington Oval Norman, OK 73019
+"lat":35.2090784,
+"lng":-97.44569229999999
+
+University of Science and Arts of Oklahoma
+1727 West Alabama Chickasha, OK 73018
+"lat":35.0323661,
+"lng":-97.9538831
+
+Lewis Clark College
+Portland, OR 97219
+"lat":45.4524452,
+"lng":-122.6741592
+
+Linfield College
+900 SE Baker Street McMinnville, OR 97128
+"lat":45.2019499,
+"lng":-123.199617
+
+Oregon Institute of Technology
+3201 Campus Drive Klamath Falls, OR 97601
+"lat":42.2568089,
+"lng":-121.7864084
+
+Oregon State University
+Corvallis, OR 97331
+"lat":44.56901,
+"lng":-123.2693959
+
+Pacific University
+2043 College Way Forest Grove, OR 97116
+"lat":45.521398,
+"lng":-123.108815
+
+Reed College
+3203 SE Woodstock Boulevard Portland, OR 97202
+"lat":45.48155999999999,
+"lng":-122.630844
+
+University of Oregon
+Eugene, OR 97403
+"lat":44.05237289999999,
+"lng":-123.023014
+
+Willamette University
+900 State Street Salem, OR 97301
+"lat":44.937655,
+"lng":-123.030187
+
+Allegheny College
+520 N Main St Meadville, PA 16335
+"lat":41.6483238,
+"lng":-80.1454694
+
+Art Institute of Philadelphia
+1622 Chestnut Street Philadelphia, PA 19103
+"lat":39.9513781,
+"lng":-75.1677332
+
+Art Institute of Pittsburgh
+420 Boulevard of The Allies Pittsburgh, PA 15219
+"lat":40.437256,
+"lng":-79.999776
+
+Beaver College
+450 South Easton Road, Glenside, PA 19038
+"lat":40.0905964,
+"lng":-75.16452839999999
+
+Bloomsburg University
+400 East Second Street Bloomsburg, PA 17815
+"lat":41.0050587,
+"lng":-76.4508488
+
+Bryn Mawr College
+101 North Merion Ave Bryn Mawr, PA 19010
+"lat":40.0263,
+"lng":-75.312867
+
+Bucknell University
+Moore Avenue Lewisburg, PA 17837
+"lat":40.9573143,
+"lng":-76.8846229
+
+California University of Pennsylvania
+250 University Ave California, PA 15419
+"lat":40.0659891,
+"lng":-79.88566899999999
+
+Carnegie Mellon University
+5000 Forbes Avenue Pittsburgh, PA 15213
+"lat":40.4441672,
+"lng":-79.94336059999999
+
+Clarion University
+840 Wood St Clarion, PA 16214
+"lat":41.2113476,
+"lng":-79.3807008
+
+Delaware Valley College
+700 East Butler Avenue Doylestown, PA 18901
+"lat":40.2987672,
+"lng":-75.15882169999999
+
+Dickinson College
+Carlisle, PA 17013
+"lat":40.21940600000001,
+"lng":-77.1710916
+
+Duquesne University
+600 Forbes Avenue Pittsburgh, PA 15282
+"lat":40.4381144,
+"lng":-79.9931845
+
+Eastern College
+1300 Eagle Road St. Davids, PA 19087
+"lat":40.05134,
+"lng":-75.370761
+
+Edinboro University
+Edinboro, PA 16444
+"lat":41.8707895,
+"lng":-80.12936259999999
+
+Franklin Marshall College
+Lancaster, PA 17604
+"lat":40.060075,
+"lng":-76.332064
+
+Gannon University
+109 University Square Erie, PA 16541
+"lat":42.1282759,
+"lng":-80.0865273
+
+Gettysburg College
+300 North Washington Street Gettysburg, PA 17325
+"lat":39.8368324,
+"lng":-77.2387791
+
+Gwynedd Mercy College
+1325 Sumneytown Pike Gwynedd Valley, PA 19437
+"lat":40.2172225,
+"lng":-75.29313599999999
+
+Haverford College
+370 Lancaster Ave Haverford, PA 19041
+"lat":40.0095152,
+"lng":-75.30766059999999
+
+Immaculta University
+1145 King Road Immaculta, PA 19345
+"lat":40.0315651,
+"lng":-75.5651525
+
+Juniata College
+1700 Moore Street Huntingdon, PA 16652
+"lat":40.50063859999999,
+"lng":-78.0172906
+
+King's College
+133 N. River Street Wilkes Barre, PA 18711
+"lat":41.249695,
+"lng":-75.879898
+
+Lafayette College
+17 Watson Hall Easton, PA 18042
+"lat":40.6990211,
+"lng":-75.21157749999999
+
+La Salle University
+1900 W. Olney Ave Philadelphia, PA 19141
+"lat":40.0378297,
+"lng":-75.1524934
+
+Lebanon Valley College
+101 N. College Avenue Annville, PA 17003
+"lat":40.3311473,
+"lng":-76.51368549999999
+
+Lehigh University
+27 Memorial Drive West Bethlehem, PA 18015
+"lat":40.6072324,
+"lng":-75.37828519999999
+
+Lycoming College
+700 College Place Williamsport, PA 17701
+"lat":41.24523749999999,
+"lng":-77.00014159999999
+
+Marywood University
+2300 Adams Avenue Scranton, PA 18509
+"lat":41.433438,
+"lng":-75.637208
+
+Messiah College
+One College Avenue Grantham, PA 17027
+"lat":40.1571309,
+"lng":-76.9912755
+
+Millersville University
+1 South George St Millersville, PA 17551
+"lat":39.99705,
+"lng":-76.35433429999999
+
+Moravian College
+1200 Main St Bethlehem, PA 18018
+"lat":40.63085540000001,
+"lng":-75.3817868
+
+Pennsylvania College of Technology
+One College Avenue Williamsport, PA 17701
+"lat":41.2326132,
+"lng":-77.02113659999999
+
+Pennsylvania State University
+201 Shields Building University Park, PA 16802
+"lat":40.8071186,
+"lng":-77.8578588
+
+Slippery Rock University
+1 Morrow Way Slippery Rock, PA 16057
+"lat":41.0600055,
+"lng":-80.0508919
+
+Susquehanna University
+514 University Avenue Selinsgrove, PA 17870
+"lat":40.7996421,
+"lng":-76.8697085
+
+Swarthmore College
+500 College Avenue Swarthmore, PA 19081
+"lat":39.904097,
+"lng":-75.35452699999999
+
+Temple University
+1801 North Broad Street Philadelphia, PA 19122
+"lat":39.9862829,
+"lng":-75.1230099
+
+University of Pennsylvania
+3451 Walnut Street Philadelphia, PA 19104
+"lat":39.9532243,
+"lng":-75.1939426
+
+University of Pittsburgh
+Pittsburgh, PA 15260
+"lat":40.4474211,
+"lng":-79.922984
+
+University of Scranton
+Scranton, PA 18510
+"lat":41.419798,
+"lng":-75.58388409999999
+
+Villanova University
+800 Lancaster Avenue Villanova, PA 19085
+"lat":40.0382337,
+"lng":-75.34169589999999
+
+Washington Jefferson College
+60 S. Lincoln St. Washington, PA 15301
+"lat":40.1710921,
+"lng":-80.24112839999999
+
+Waynesburg College
+51 W. College Street Waynesburg, PA 15370
+"lat":39.89943239999999,
+"lng":-80.18963599999999
+
+Widener University
+One University Place Chester, PA 19013
+"lat":39.8617358,
+"lng":-75.3542557
+
+Wilkes University
+84 West South Street Wilkes Barre, PA 18766
+"lat":41.2446345,
+"lng":-75.89007409999999
+
+York College of Pennsylvania
+York, PA 17405
+"lat":39.96,
+"lng":-76.72999999999999
+
+Brown University
+Providence, RI 02912
+"lat":41.8308409,
+"lng":-71.395309
+
+Bryant College
+1150 Douglas Pike Smithfield, RI 02917
+"lat":41.9209965,
+"lng":-71.53784279999999
+
+Rhode Island School of Design
+Two College Street Providence, RI 02903
+"lat":41.8258538,
+"lng":-71.4077368
+
+Roger Williams University
+Bristol, RI 02809
+"lat":41.7154079,
+"lng":-71.21754319999999
+
+The Citadel
+171 Moultrie Street Charleston, SC 29409
+"lat":32.796617,
+"lng":-79.957764
+
+Clemson University
+Clemson, SC 29634
+"lat":34.6828059,
+"lng":-82.83523599999999
+
+Coastal Carolina University
+Conway, SC 29528
+"lat":33.84,
+"lng":-79.05
+
+Columbia College
+1301 Columbia College Dr Columbia, SC 29203
+"lat":34.04607190000001,
+"lng":-81.0329936
+
+Francis Marion University
+Florence, SC 29501
+"lat":34.22983,
+"lng":-79.7170199
+
+Furman University
+3300 Poinsett Highway Greenville, SC 29613
+"lat":34.9278959,
+"lng":-82.43146999999999
+
+Presbyterian College
+503 South Broad Street Clinton, SC 29325
+"lat":34.4669671,
+"lng":-81.8799056
+
+South Carolina State University
+300 College Street, NE Orangeburg, SC 29117
+"lat":33.5021747,
+"lng":-80.8481293
+
+University of South Carolina Aiken
+471 University Parkway Aiken, SC 29801
+"lat":33.5726447,
+"lng":-81.7675156
+
+Winthrop University
+Rock Hill, SC 29733
+"lat":34.9301109,
+"lng":-81.022784
+
+Dakota State University
+820 N. Washington Ave Madison, SD 57042
+"lat":44.0135747,
+"lng":-97.1102277
+
+Northern State University
+1200 S. Jay St Aberdeen, SD 57401
+"lat":45.4527523,
+"lng":-98.4836038
+
+University of Sioux Falls
+1101 West 22nd Street Sioux Falls, SD 57105
+"lat":43.5322036,
+"lng":-96.73860040000001
+
+University of South Dakota
+414 East Clark St. Vermillion, SD 57069
+"lat":42.7840015,
+"lng":-96.92599849999999
+
+Belmont University
+1900 Belmont Boulevard Nashville, TN 37212
+"lat":36.1328096,
+"lng":-86.7952136
+
+East Tennessee State University
+Johnson City, TN 37614
+"lat":36.30409,
+"lng":-82.36247
+
+Fisk University
+1000 Seventeenth Ave North Nashville, TN 37208
+"lat":36.167574,
+"lng":-86.8041028
+
+King College
+1350 King College Road Bristol, TN 37620
+"lat":36.5859965,
+"lng":-82.1564784
+
+Middle Tennessee State University
+1301 East Main Street Murfreesboro, TN 37132
+"lat":35.8461763,
+"lng":-86.36395759999999
+
+Rhodes College
+2000 N. Parkway Memphis, TN 38112
+"lat":35.15272,
+"lng":-89.992651
+
+Tennessee Technological University
+Cookeville, TN 38505
+"lat":36.177686,
+"lng":-85.5014489
+
+Union University
+1050 Union University Drive Jackson, TN 38305
+"lat":35.6819599,
+"lng":-88.85820439999999
+
+University of Memphis
+101 Wilder Tower Memphis, TN 38152
+"lat":35.117594,
+"lng":-89.9395354
+
+University of the South
+735 University Ave Sewanee, TN 37383
+"lat":35.2030022,
+"lng":-85.9208254
+
+University of Tennessee Knoxville
+Knoxville, TN 37996
+"lat":35.9555281,
+"lng":-83.92486509999999
+
+Vanderbilt University
+2201 West End Avenue Nashville, TN 37235
+"lat":36.1498048,
+"lng":-86.8001395
+
+Angelo State University
+2601 W. Avenue N San Angelo, TX 76909
+"lat":31.4551895,
+"lng":-100.4393856
+
+Art Institute of Houston
+1900 Yorktown Houston, TX 77056
+"lat":29.746892,
+"lng":-95.470812
+
+Austin College
+900 N. Grand Ave Sherman, TX 75090
+"lat":33.6476716,
+"lng":-96.59540179999999
+
+Baylor University
+One Bear Place Waco, TX 76798
+"lat":31.4870395,
+"lng":-97.2777911
+
+Coastal Bend College
+704 Coyote Trail Alice, TX 78332
+"lat":27.7593299,
+"lng":-98.05206919999999
+
+Coastal Bend College
+1814 S. Brahma Blvd. Kingsville, TX 78363
+"lat":27.5004004,
+"lng":-97.85590309999999
+
+Coastal Bend College
+3800 Charco Road Beeville, TX 78102
+"lat":28.442566,
+"lng":-97.757577
+
+Coastal Bend College
+1411 Bensdale Pleasanton, TX 78064
+"lat":28.976866,
+"lng":-98.49822899999999
+
+Cox School of Business
+6212 Bishop Blvd Dallas, TX 75275
+"lat":32.8419536,
+"lng":-96.7847673
+
+Hardin Simmons University
+2200 Hickory Abilene, TX 79698
+"lat":32.475068,
+"lng":-99.73254999999999
+
+McMurry University
+14th Sayles Blvd. Abilene, TX 79697
+"lat":32.4093186,
+"lng":-99.7829101
+
+Midwestern State University
+3410 Taft Boulevard Wichita Falls, TX 76308
+"lat":33.8762396,
+"lng":-98.51957879999999
+
+Our Lady of the Lake University
+411 S.W. 24th Street San Antonio, TX 78207
+"lat":29.4260471,
+"lng":-98.54359029999999
+
+Prairie View A&M University
+Prairie View, TX 77446
+"lat":30.088373,
+"lng":-95.99243799999999
+
+Rice University
+6100 Main Houston, TX 77005
+"lat":29.7209747,
+"lng":-95.39541349999999
+
+Saint Edwards University
+3001 South Congress Avenue Austin, TX 78704
+"lat":30.2317321,
+"lng":-97.75783849999999
+
+Saint Mary's University
+One Camino Santa Maria San Antonio, TX 78228
+"lat":29.4530668,
+"lng":-98.56134849999999
+
+Southern Methodist University
+6425 Boaz Lane Dallas, TX 75205
+"lat":32.8442309,
+"lng":-96.78564560000001
+
+Southwestern University
+1001 E University Georgetown, TX 78626
+"lat":30.633393,
+"lng":-97.6651734
+
+Sul Ross State University
+Alpine, TX 79832
+"lat":30.364469,
+"lng":-103.647875
+
+Tarleton State University
+1333 W. Washington Stephenville, TX 76402
+"lat":32.2150068,
+"lng":-98.21477519999999
+
+Texas State University
+601 University Drive San Marcos, TX 78666
+"lat":29.8894217,
+"lng":-97.94444060000001
+
+Texas A&M University
+College Station, TX 77843
+"lat":30.61,
+"lng":-96.33999999999999
+
+Texas Christian University
+2800 S. University Dr Fort Worth, TX 76129
+"lat":32.7107827,
+"lng":-97.3611813
+
+Texas Lutheran University
+1000 W. Court St. Seguin, TX 78155
+"lat":29.569499,
+"lng":-97.984101
+
+Texas Tech University
+2500 Broadway Lubbock, TX 79409
+"lat":33.5850597,
+"lng":-101.810979
+
+Texas Woman's University
+Denton, TX 76204
+"lat":33.2105565,
+"lng":-97.13030569999999
+
+Trinity University
+One Trinity Place San Antonio, TX 78212
+"lat":29.4578332,
+"lng":-98.4825096
+
+University of Houston
+4800 Calhoun Rd Houston, TX 77004
+"lat":29.7196583,
+"lng":-95.34323929999999
+
+University of North Texas
+Denton, TX 76203
+"lat":33.2067295,
+"lng":-97.146081
+
+University of Saint Thomas
+3800 Montrose Houston, TX 77006
+"lat":29.73829,
+"lng":-95.39187299999999
+
+University of Texas Austin
+1 University Station Austin, TX 78712
+"lat":30.2862618,
+"lng":-97.72831010000002
+
+University of Texas Dallas
+Richardson, TX 75083
+"lat":32.9584709,
+"lng":-96.7317975
+
+Western Texas AM University
+2501 4th Avenue Canyon, TX 79016
+"lat":34.9798283,
+"lng":-101.9158257
+
+Brigham Young University
+Provo, UT 84602
+"lat":40.2524299,
+"lng":-111.65027
+
+California College for Health Sciences
+5295 S. Commerce Dr. Salt Lake City, UT 84107
+"lat":40.655895,
+"lng":-111.898667
+
+College of Eastern Utah
+451 East 400 North Price, UT 84501
+"lat":39.608586,
+"lng":-110.804594
+
+Dixie College
+225 S. 700 E St George, UT 84770
+"lat":37.099568,
+"lng":-113.568356
+
+Southern Utah University
+351 West University Boulevard Cedar City, UT 84720
+"lat":37.6771288,
+"lng":-113.0694778
+
+University of Utah
+201 South Presidents Circle Salt Lake City, UT 84112
+"lat":40.758964,
+"lng":-111.842701
+
+Utah Valley State College
+800 West University Parkway Orem, UT 84058
+"lat":40.2773322,
+"lng":-111.712954
+
+Weber State University
+Ogden, UT 84408
+"lat":41.1958519,
+"lng":-111.9481241
+
+Bennington College
+One College Drive Bennington, VT 05201
+"lat":42.9203744,
+"lng":-73.2358303
+
+Marlboro College Graduate Center
+28 Vernon Street Brattleboro, VT 05301
+"lat":42.850283,
+"lng":-72.556164
+
+Marlboro College
+2582 South Road Marlboro, VT 05344
+"lat":42.8390545,
+"lng":-72.73475449999999
+
+Middlebury College
+Middlebury, VT 05753
+"lat":44.0569,
+"lng":-73.058211
+
+Norwich University
+158 Harmon Dr Northfield, VT 05663
+"lat":44.14167740000001,
+"lng":-72.6586123
+
+Saint Michael's College
+One Winooski Park Colchester, VT 05439
+"lat":44.494,
+"lng":-73.16810679999999
+
+University of Vermont
+Burlington, VT 05405
+"lat":44.48073,
+"lng":-73.18687199999999
+
+Vermont Technical College
+Randolph Center, VT 05061
+"lat":44.003853,
+"lng":-72.51282789999999
+
+Bridgewater College
+Bridgewater, VA 22812
+"lat":38.4015779,
+"lng":-78.946179
+
+Christopher Newport University
+1 University Place Newport News, VA 23606
+"lat":37.063821,
+"lng":-76.495419
+
+College of William and Mary
+Williamsburg, VA 23187
+"lat":37.27,
+"lng":-76.7099999
+
+Eastern Mennonite University
+1200 Park Road Harrisonburg, VA 22802
+"lat":38.4702372,
+"lng":-78.8770937
+
+Emory and Henry College
+Emory, VA 24327
+"lat":36.774994,
+"lng":-81.8326084
+
+George Mason University
+4400 University Drive Fairfax, VA 22030
+"lat":38.8329383,
+"lng":-77.30837699999999
+
+Hampton University
+Hampton, VA 23668
+"lat":37.023869,
+"lng":-76.336353
+
+James Madison University
+Harrisonburg, VA 22807
+"lat":38.4432509,
+"lng":-78.85464690000001
+
+Longwood University
+201 High Street Farmville, VA 23909
+"lat":37.299456,
+"lng":-78.39561049999999
+
+Lynchburg College
+1501 Lakeside Drive Lynchburg, VA 24501
+"lat":37.40071,
+"lng":-79.18293000000001
+
+Mary Baldwin College
+Staunton, VA 24401
+"lat":38.197439,
+"lng":-79.01220409999999
+
+Marymount University
+2807 N Glebe RD Arlington, VA 22207
+"lat":38.9052975,
+"lng":-77.1284699
+
+Old Dominion University
+Norfolk, VA 23529
+"lat":36.8860765,
+"lng":-76.30805699999999
+
+Radford University
+East Main St Radford, VA 24142
+"lat":37.1413131,
+"lng":-80.51859999999999
+
+Randolph Macon College
+Ashland, VA 23005
+"lat":37.7920171,
+"lng":-77.446338
+
+Randolph College
+2500 Rivermont Ave Lynchburg, VA 24503
+"lat":37.438882,
+"lng":-79.17147
+
+Roanoke College
+221 College Lane Salem, VA 24153
+"lat":37.2947293,
+"lng":-80.0566139
+
+Strayer University
+1100 Wilson Boulevard Arlington, VA 22209
+"lat":38.8947171,
+"lng":-77.0702878
+
+Sweet Briar College
+Sweet Briar, VA 24595
+"lat":37.55,
+"lng":-79.0699999
+
+University of Richmond
+28 Westhampton Way University of Richmond, VA 23173
+"lat":37.5828858,
+"lng":-77.53417899999999
+
+University of Virginia
+Charlottesville, VA 22904
+"lat":38.0340003,
+"lng":-78.5102996
+
+Virginia Commonwealth University
+Richmond, VA 23284
+"lat":37.551279,
+"lng":-77.4469939
+
+Virginia Tech
+210 Sandy Hall Blacksburg, VA 24061
+"lat":37.2258994,
+"lng":-80.423294
+
+Virginia Wesleyan College
+1584 Wesleyan Dr Norfolk, VA 23502
+"lat":36.8686649,
+"lng":-76.18864599999999
+
+Washington Lee University
+Lexington, VA 24450
+"lat":37.7951148,
+"lng":-79.41494809999999
+
+Art Institute of Seattle
+2323 Elliott Avenue Seattle, WA 98121
+"lat":47.6124844,
+"lng":-122.3493186
+
+Crown College
+8739 S. Hosmer Tacoma, WA 98444
+"lat":47.177601,
+"lng":-122.462522
+
+Eastern Washington University
+526 5th Street Cheney, WA 99004
+"lat":47.4908212,
+"lng":-117.5779793
+
+Evergreen State College
+2700 Evergreen Parkway NW Olympia, WA 98505
+"lat":47.072594,
+"lng":-122.95415
+
+Pacific Lutheran University
+Tacoma, WA 98447
+"lat":47.143353,
+"lng":-122.4398051
+
+Seattle Pacific University
+3307 Third Avenue West Seattle, WA 98119
+"lat":47.6488999,
+"lng":-122.3617531
+
+Seattle University
+901 12th Avenue Seattle, WA 98122
+"lat":47.6087018,
+"lng":-122.3173736
+
+University of Puget Sound
+1500 N. Warner Tacoma, WA 98416
+"lat":47.2653786,
+"lng":-122.4789357
+
+University of Washington
+Seattle, WA 98195
+"lat":47.6604989,
+"lng":-122.300011
+
+Walla Walla College
+204 South College Avenue College Place, WA 99324
+"lat":46.0475193,
+"lng":-118.3895856
+
+Washington State University
+French Ad 324 Pullman, WA 99164
+"lat":46.73169,
+"lng":-117.15206
+
+Western Washington University
+516 High Street Bellingham, WA 98225
+"lat":48.7375759,
+"lng":-122.4864811
+
+Whitman College
+345 Boyer Avenue Walla Walla, WA 99362
+"lat":46.070899,
+"lng":-118.3295838
+
+Whitworth College
+300 W. Hawthorne Road Spokane, WA 99251
+"lat":47.753685,
+"lng":-117.417754
+
+Bethany College
+Bethany, WV 26032
+"lat":40.2124539,
+"lng":-80.550855
+
+Davis and Elkins College
+100 Campus Drive Elkins, WV 26241
+"lat":38.9313344,
+"lng":-79.84516359999999
+
+Fairmont State College
+1201 Locust Avenue Fairmont, WV 26554
+"lat":39.48157,
+"lng":-80.163202
+
+Glenville State College
+200 High Street Glenville, WV 26351
+"lat":38.9347293,
+"lng":-80.83381849999999
+
+Marshall University
+One John Marshall Drive Huntington, WV 25755
+"lat":38.42314289999999,
+"lng":-82.4292749
+
+West Liberty State College
+101 Campus Service Center West Liberty, WV 26074
+"lat":40.173231,
+"lng":-80.5899369
+
+West Virginia University
+Morgantown, WV 26506
+"lat":39.656129,
+"lng":-79.9523628
+
+Beloit College
+Beloit, WI 53511
+"lat":42.568611,
+"lng":-88.945065
+
+Carthage College
+2001 Alford Park Drive Kenosha, WI 53140
+"lat":42.622783,
+"lng":-87.82187499999999
+
+Edgewood College
+1000 Edgewood College Drive Madison, WI 53711
+"lat":43.0583207,
+"lng":-89.4216926
+
+Lawrence University
+Appleton, WI 54912
+"lat":44.26,
+"lng":-88.42000000000002
+
+Marquette University
+Milwaukee, WI 53201
+"lat":43.03,
+"lng":-87.92
+
+Milwaukee School of Engineering
+1025 North Broadway Milwaukee, WI 53202
+"lat":43.0442405,
+"lng":-87.90870439999999
+
+Northland College
+1411 Ellis Avenue Ashland, WI 54806
+"lat":46.6194709,
+"lng":-90.822299
+
+Saint Norbert College
+100 Grant Street De Pere, WI 54115
+"lat":44.4451589,
+"lng":-88.071983
+
+University of Wisconsin Eau Claire
+105 Garfield Avenue Eau Claire, WI 54702
+"lat":44.797292,
+"lng":-91.49765959999999
+
+University of Wisconsin La Crosse
+1725 State Street La Crosse, WI 54601
+"lat":43.8128342,
+"lng":-91.22902239999999
+
+University of Wisconsin Madison
+228 Bascom Hall 500 Lincoln Dr Madison, WI 53706
+"lat":43.074648,
+"lng":-89.4037032
+
+University of Wisconsin Milwaukee
+2200 E. Kenwood Blvd Milwaukee, WI 53201
+"lat":43.0750689,
+"lng":-87.88133449999999
+
+University of Wisconsin Oshkosh
+800 Algoma Blvd Oshkosh, WI 54901
+"lat":44.0213038,
+"lng":-88.5507903
+
+University of Wisconsin Parkside
+900 Wood Road Kenosha, WI 53141
+"lat":42.643209,
+"lng":-87.84792399999999
+
+University of Wisconsin Platteville
+1 University Plaza Platteville, WI 53818
+"lat":42.73381089999999,
+"lng":-90.48496689999999
+
+University of Wisconsin Stevens Point
+2100 Main Street Stevens Point, WI 54481
+"lat":44.5234977,
+"lng":-89.56956049999999
+
+University of Wisconsin Stout
+712 South Broadway St Menomonie, WI 54751
+"lat":44.87071299999999,
+"lng":-91.92895899999999
+
+University of Wisconsin Superior
+Superior, WI 54880
+"lat":46.74914,
+"lng":-91.93005079999999
+
+University of Wisconsin Whitewater
+800 West Main Street Whitewater, WI 53190
+"lat":42.836551,
+"lng":-88.743893
+
+Catholic University of America
+620 Michigan Ave. NE Washington, DC 20064
+"lat":38.9348104,
+"lng":-76.99748749999999
+
+Gallaudet University
+800 Florida Avenue, NE Washington, DC 20002
+"lat":38.9065802,
+"lng":-76.9923663
+
+Georgetown University
+37th and O Streets, NW Washington, DC 20057
+"lat":38.9229094,
+"lng":-77.070577
+
+George Washington University
+2121 Eye Street, N.W Washington, DC 20052
+"lat":38.900993,
+"lng":-77.047657
+
+Howard University
+2400 Sixth Street, NW Washington, DC 20059
+"lat":38.9203517,
+"lng":-77.0208696
+
+University of the District of Columbia
+4200 Connecticut Ave NW Washington, DC 20008
+"lat":38.9433165,
+"lng":-77.0631444
